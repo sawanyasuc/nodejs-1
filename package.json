@@ -30,5 +30,10 @@
     "gulp": "^3.9.1",
     "lodash": "^4.17.21",
     "morgan": "^1.10.0"
+  },
+  "dependencies": {
+    "request-ip": "^3.3.0",
+    "socket.io": "^4.7.5",
+    "ws": "^8.17.0"
   }
 }
